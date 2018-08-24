@@ -4,7 +4,7 @@ $columns = 3;
 // Количество оставшихся элементов:
 $orphaned_items = 0;
 // Количество элементов:
-$amount_items = count($rows);
+$amount_items = count($items);
 // Порядковый номер элемента:
 $element_number = 0;
 // Уже добавлено элементов:
