@@ -29,7 +29,6 @@ else {
   if ($element_number == $amount_items) {
     break;
   }
-  $text .= '<h2><b>Колонка: ' . $i . '</b></h2>';
 
   if ($orphaned_items > 0) {
     $add_item_column = 1;
